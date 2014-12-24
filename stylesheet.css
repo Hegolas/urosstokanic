@@ -1,0 +1,112 @@
+body {
+background-color: #E4F1FE;
+
+}
+
+
+#ime {
+
+	text-align: center;
+	font-size: 35px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#town {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	text-align: center;
+	font-size: 25px;
+}
+
+p {
+
+	font-size: 20px;
+	font-family: Cursive;
+	text-decoration: none;
+}
+
+#center {
+text-align: center;
+text-decoration: none;
+
+}
+
+
+.aftpic {
+font-family: Verdana;
+font-size: 20px;
+text-align: center;
+
+}
+
+
+.centerimg
+    {
+    
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding:0px;
+
+    }
+
+    #uros {
+
+    	border-radius: 30px;
+    	border-style: solid;
+
+    	border-width: 15px;
+    }
+
+    ul {
+text-align: center;
+}
+div {
+	display: inline-block;
+	margin-left: 5px;
+	height: 100px;
+	width: 100px;
+	border: solid;
+	border-color: black;
+	border-width: 0px;
+	border-radius: 100%;
+
+}
+#igre {
+max-height: 100%;
+max-width: 100%;
+
+}
+
+a {
+text-decoration: none;
+color: #663399;
+}
+
+a:hover {
+color: #DCC6E0;
+
+}
+#dontstarve {
+max-height: 150%;
+max-width: 170%;
+
+}
+
+#Facebook {
+    background-color: #446CB3;
+    color: white;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+    font-family: Verdana;
+    border-radius: 20px;
+
+}
+#Facebook:hover {
+background-color: #81CFE0;
+
+}
+
